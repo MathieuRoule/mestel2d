@@ -1,0 +1,14 @@
+# Compilation files
+*.o
+mestel2d
+
+# VS Code
+.vscode/*
+
+# Test results
+**/__pycache__/*
+test/data/*
+
+# MacOS files
+.DS_Store
+**/.DS_Store
