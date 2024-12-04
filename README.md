@@ -16,7 +16,7 @@ Follow these steps to install and compile the code:
 
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/MathieuRoule/mestel2d.git
    ```
 
 2. **Dependencies:**  
